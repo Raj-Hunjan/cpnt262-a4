@@ -19,5 +19,5 @@ $ node app.js <door> <number>
 
 ## Attributions
 - Special thanks to [Jessica](https://github.com/Enyorose) for helping with getting a idea for this assignment.
-- [third party npm package](https://www.npmjs.com/package/chalk).
-- Also a special thanks to [Tony](https://gist.github.com/acidtone) for the [code](https://github.com/sait-wbdv/in-class/blob/main/cpnt262/10-27-npm/01-spoilers-calculator-argv/app.js).
+- [Third party npm package Chalk](https://www.npmjs.com/package/chalk).
+- Also a special thanks to [Tony Grimes](https://gist.github.com/acidtone) for the [code](https://github.com/sait-wbdv/in-class/blob/main/cpnt262/10-27-npm/01-spoilers-calculator-argv/app.js).
