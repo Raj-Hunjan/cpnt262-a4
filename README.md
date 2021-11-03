@@ -6,7 +6,7 @@ You can choose doors 1-5.
 Enter a command in the following format:
 
 ```
-$ node app.js <yourChoice> <number>
+$ node app.js <door> <number>
 ```
 
 ## Examples:
