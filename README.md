@@ -13,7 +13,7 @@ $ node app.js <door> <number>
 - `$ node app.js door 1`
 - `$ node app.js door 2`
 
-## errors:
+## Errors:
 - `$ node app.js door`
 - `$ node app.js 4` 
 
