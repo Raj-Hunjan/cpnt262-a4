@@ -20,4 +20,4 @@ $ node app.js <yourChoice> <number>
 ## Attributions
 - Special thanks to [Jessica](https://github.com/Enyorose) for helping with getting a idea for this assignment.
 - [third party npm package](https://www.npmjs.com/package/chalk).
-- Also thanks [Tony](https://gist.github.com/acidtone) for the code.
+- Also a special thanks to [Tony](https://gist.github.com/acidtone) for the [code](https://github.com/sait-wbdv/in-class/blob/main/cpnt262/10-27-npm/01-spoilers-calculator-argv/app.js).
