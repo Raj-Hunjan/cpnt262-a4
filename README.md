@@ -18,6 +18,6 @@ $ node app.js <yourChoice> <number>
 - `$ node app.js 4` 
 
 ## Attributions
-- Special thanks to [Jessica] for helping with getting a idea for this assignment(https://github.com/Enyorose).
+- Special thanks to [Jessica](https://github.com/Enyorose) for helping with getting a idea for this assignment.
 - [third party npm package](https://www.npmjs.com/package/chalk).
-- Also thanks [Tony] for the code(https://gist.github.com/acidtone).
+- Also thanks [Tony](https://gist.github.com/acidtone) for the code.
